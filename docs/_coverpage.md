@@ -9,4 +9,4 @@
 - Simulink、MapleSim
 
 
-[开始使用](/README.md)
+[开始了解](/README.md)
